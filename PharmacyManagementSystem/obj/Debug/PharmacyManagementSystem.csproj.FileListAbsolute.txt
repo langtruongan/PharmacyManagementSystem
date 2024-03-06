@@ -1,0 +1,53 @@
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.registerForm.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.loginForm.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.MainForm.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminDashboard.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminAddUsers.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminAddCategories.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminAddProducts.resources
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminAddCategories.resources
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminAddProducts.resources
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminAddUsers.resources
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminDashboard.resources
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.loginForm.resources
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.MainForm.resources
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.registerForm.resources
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.cashierMainForm.resources
+C:\CT310H\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.cashierOders.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminAddCategories.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminAddProducts.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminAddUsers.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminCustomers.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.adminDashboard.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.cashierMainForm.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.cashierOders.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.loginForm.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.MainForm.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.registerForm.resources
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\ACER\Documents\CoGangHoc\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb

@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{214D4B77-4556-4A4E-BE32-A5E67C3BD0BE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PharmacyManagementSystem</RootNamespace>
+    <AssemblyName>PharmacyManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminAddCategories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminAddCategories.Designer.cs">
+      <DependentUpon>adminAddCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminAddCategoriesData.cs" />
+    <Compile Include="adminAddProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminAddProducts.Designer.cs">
+      <DependentUpon>adminAddProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminAddProductsData.cs" />
+    <Compile Include="adminAddUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminAddUsers.Designer.cs">
+      <DependentUpon>adminAddUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminAddUsersData.cs" />
+    <Compile Include="adminCustomers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminCustomers.Designer.cs">
+      <DependentUpon>adminCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminCustomersData.cs" />
+    <Compile Include="adminDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="adminDashboard.Designer.cs">
+      <DependentUpon>adminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashierMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashierMainForm.Designer.cs">
+      <DependentUpon>cashierMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashierOders.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="cashierOders.Designer.cs">
+      <DependentUpon>cashierOders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashierOrdersData.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="registerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registerForm.Designer.cs">
+      <DependentUpon>registerForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminAddCategories.resx">
+      <DependentUpon>adminAddCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminAddProducts.resx">
+      <DependentUpon>adminAddProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminAddUsers.resx">
+      <DependentUpon>adminAddUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminCustomers.resx">
+      <DependentUpon>adminCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminDashboard.resx">
+      <DependentUpon>adminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashierMainForm.resx">
+      <DependentUpon>cashierMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashierOders.resx">
+      <DependentUpon>cashierOders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="registerForm.resx">
+      <DependentUpon>registerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-dashboard-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-pharmacy-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-doctor-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-users-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-products-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-customers-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-logout-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-users-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-bill-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-revenue-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-total-revenue-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-category-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons8-categories-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="products_directory\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
